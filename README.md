@@ -50,8 +50,10 @@
 
 
 ### In a previous works ...
-![Systems Engineer](https://img.shields.io/static/v1?style=for-the-badge&message=Systems%20Engineers&color=0000FF&logo=Windows&logoColor=FFFFFF&label=)
-I have been a systems technician for 3 years, where I have engaged in a diverse array of tasks in a field that I found to be both comfortable and familiar. However, I discovered mobile programming and decided to make a change.
+![Systems Engineer](https://img.shields.io/static/v1?style=for-the-badge&message=Systems%20Engineers&color=0000FF&logo=Windows&logoColor=FFFFFF&label=)<br> 
+
+I have been a systems technician for 3 years, where I have engaged in a diverse array of tasks in a field that I found to be both comfortable and familiar. However, I discovered mobile programming and decided to make a change.<br> 
+
 
 # 📊 GitHub Stats:
 
