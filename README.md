@@ -75,7 +75,6 @@ I have been a systems technician for 3 years, where I have engaged in a diverse 
 
 <br>
 
-
 ## ✉️ Contact
 
 <a href="mailto:davidnavarrom3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
