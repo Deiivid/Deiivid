@@ -3,10 +3,6 @@
 <h3 align="center">An Android developer  :iphone: </h3>
 
 
-![image](https://raw.githubusercontent.com/Deiivid/Deiivid/master/icons/banner.jpg)
-
-
-
 # 💫 About Me:
 
 👋 Hi, I’m @David Navarro<br> 
