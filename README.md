@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/Deiivid/Deiivid/master/icons/hi.gif" width="30px">, I'm David!</h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/Deiivid/Deiivid/master/icons/hi.gif" width="30px"></h1>
 
 <h3 align="center">An Android developer  :iphone: </h3>
 
