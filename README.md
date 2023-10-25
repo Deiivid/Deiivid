@@ -49,8 +49,9 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-### In a previous life...
+### In a previous works ...
 ![Systems Engineer](https://img.shields.io/static/v1?style=for-the-badge&message=Systems%20Engineers&color=0000FF&logo=Windows&logoColor=FFFFFF&label=)
+I have been a systems technician for 3 years, where I have engaged in a diverse array of tasks in a field that I found to be both comfortable and familiar. However, I discovered mobile programming and decided to make a change.
 
 # 📊 GitHub Stats:
 
