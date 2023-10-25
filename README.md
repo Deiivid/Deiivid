@@ -60,8 +60,8 @@
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=302000&logo=Firebase&logoColor=e09200&label=)
 
 
-### In a previous life I used... 🤐
-Systems engineer
+### In a previous life...
+<br>Systems engineer ![Systems](https://img.shields.io/static/v1?style=for-the-badge&message=systems&color=F05032&logo=System&logoColor=FFFFFF&label=) </br>
 
 # 📊 GitHub Stats:
 
