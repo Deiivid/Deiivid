@@ -1,81 +1,24 @@
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/Deiivid/Deiivid/master/icons/hi.gif" width="30px"></h1>
-
-<h3 align="center">An Android developer  :iphone: </h3>
-
-
 # 💫 About Me:
-
-👋 Hi, I’m @David Navarro<br> 
-
-👀 I’m interested in Android & iOS Apps!<br>
-
-🔭 I’m currently working on Hiberus, a technology company based in Spain<br>
-
-👯 I’m looking to collaborate on projects with Jetpack Compose, Clasic View, Java, Swift UI!<br>
-
-🌱 I’m currently coding 100% in Kotlin, and trying to improve Architecture and knowing!<br> 
-
-💬 If you want to collaborate with me, send me a message<br>
-
-<br>
-
-
-# 💻 Tech Stack:
-
-![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
-
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-![JetpackCompose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=4285F4)
-
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-
-![Github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=302000&logo=Firebase&logoColor=e09200&label=)
-
-![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=1c1c1c&logo=Google+Play&logoColor=808080&label=)
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-
-### In a previous works ...
-![Systems Engineer](https://img.shields.io/static/v1?style=for-the-badge&message=Systems%20Engineers&color=0000FF&logo=Windows&logoColor=FFFFFF&label=)<br> 
-
-I have been a systems technician for 3 years, where I have engaged in a diverse array of tasks in a field that I found to be both comfortable and familiar. However, I discovered mobile programming and decided to make a change.<br> 
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Deiivid&theme=radical&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Deiivid&theme=radical&hide_border=true&include_all_commits=true&count_private=true))
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deiivid&theme=radical&hide_border=true)<br/>
-
-<br>
-
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Deiivid&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+👋 Hi, I’m @David Navarro<br><br>👀 I’m interested in Android & iOS Apps!<br><br>🔭 I’m currently working on Hiberus, a technology company based in Spain<br><br>👯 I’m looking to collaborate on projects with Jetpack Compose, Clasic View, Java, Swift UI!<br><br>🌱 I’m currently coding 100% in Kotlin, and trying to improve Architecture and knowing!<br><br>💬 If you want to collaborate with me, send me a message
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-navarro-moreno) 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-navarro-moreno)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Deiivid&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Deiivid&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deiivid&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Deiivid&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-## ✉️ Contact
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Deiivid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<a href="mailto:davidnavarrom3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+---
+[![](https://visitcount.itsvg.in/api?id=Deiivid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 🚀 Support
-
-⭐️ You can support my work by click in "☆ Star" in the repo, it help me and motivate me a lot!! Thank you for visit my portfolio!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
