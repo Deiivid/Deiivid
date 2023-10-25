@@ -40,24 +40,19 @@
 
 
 ### Secondary tech to develop my job
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=302000&logo=Firebase&logoColor=e09200&label=)
 
 ![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Play+Console&color=1c1c1c&logo=Google+Play&logoColor=808080&label=)
-
-![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=FFFFFF&logo=Markdown&logoColor=000000&label=)
-
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=302000&logo=Firebase&logoColor=e09200&label=)
 
 
 ### In a previous life...
