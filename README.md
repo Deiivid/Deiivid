@@ -50,7 +50,7 @@
 
 
 ### In a previous life...
-![Systems Engineer](https://img.shields.io/static/v1?style=for-the-badge&message=systems&color=0000FF&logo=Windows&logoColor=FFFFFF&label=)
+![Systems Engineer](https://img.shields.io/static/v1?style=for-the-badge&message=Systems%20Engineers&color=0000FF&logo=Windows&logoColor=FFFFFF&label=)
 
 # 📊 GitHub Stats:
 
