@@ -50,7 +50,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-navarro-mmore/">
+  <a href="https://www.linkedin.com/in/david-navarro-moreno/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://medium.com/@davidnavarrom3">
