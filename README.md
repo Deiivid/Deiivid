@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🏢 Currently at **Hiberus** (Openbank project)  
+- 🏢 Currently at **Hiberus** (Bank project)  
 - 💡 Focused on **Jetpack Compose, Kotlin Multiplatform (KMP)**, and **feature-layered architectures**  
 - ⚙️ Passionate about **code quality**, **performance**, and **mentoring developers**  
 
