@@ -15,10 +15,10 @@
 ---
 ### 🧠 AI Engineering
 
-• Building AI-assisted mobile development workflows
-• Working with agent-based architectures, reusable skills and structured context systems
-• Exploring automation pipelines using Codex, Claude, MCP and workflow orchestration
-• Focused on scalable engineering productivity, validation and architecture governance
+-  Building AI-assisted mobile development workflows
+-  Working with agent-based architectures, reusable skills and structured context systems
+-  Exploring automation pipelines using Codex, Claude, MCP and workflow orchestration
+-  Focused on scalable engineering productivity, validation and architecture governance
 
 ---
 
