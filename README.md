@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">👨‍💻 David Navarro</h1>
 <p align="center">
-  <b>Senior Android Developer | Kotlin | Jetpack Compose | Clean Architecture</b><br>
+  <b>Senior Android Engineer | Kotlin Multiplatform | AI-Assisted Workflows | Compose Architecture</b><br>
   Building scalable Android applications with modern technologies and clean, maintainable code.
 </p>
 
@@ -11,6 +11,14 @@
 - 🏢 Currently at **Hiberus** (Bank project)  
 - 💡 Focused on **Jetpack Compose, Kotlin Multiplatform (KMP)**, and **feature-layered architectures**  
 - ⚙️ Passionate about **code quality**, **performance**, and **mentoring developers**  
+
+---
+### 🧠 AI Engineering
+
+• Building AI-assisted mobile development workflows
+• Working with agent-based architectures, reusable skills and structured context systems
+• Exploring automation pipelines using Codex, Claude, MCP and workflow orchestration
+• Focused on scalable engineering productivity, validation and architecture governance
 
 ---
 
@@ -43,8 +51,8 @@
 
 | Project | Description |
 |----------|-------------|
-| [**ComposeGlass**](https://github.com/Deiivid/Glassmorphism-Compose) | 💎 Glassmorphism for Jetpack Compose — blur effects made simple |
-| [**Detekt Architecture Rules**](https://github.com/Deiivid/Clean_Arquitecture_Compose/tree/master/detekt-architecture-rules) | 🧠 Custom Detekt rules for Clean Architecture layer validation |
+| [**ComposeGlass**](https://github.com/Deiivid/Glassmorphism-Compose) | Native Glassmorphism rendering engine for Jetpack Compose with Android version-aware blur rendering |
+| [**Detekt Architecture Rules**](https://github.com/Deiivid/Clean_Arquitecture_Compose/tree/master/detekt-architecture-rules) | Static architecture validation rules for layered Android/KMP projects |
 
 ---
 
