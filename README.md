@@ -42,7 +42,7 @@ My goal is not to ship more generated code. It is to make AI-assisted developmen
 ### [Android Clean Architecture Sample](https://github.com/Deiivid/Android-Clean-Architecture-Sample)
 
 <a href="https://github.com/Deiivid/Android-Clean-Architecture-Sample">
-  <img src="https://raw.githubusercontent.com/Deiivid/Android-Clean-Architecture-Sample/main/docs/images/catalog-tour-preview.png" alt="Android Clean Architecture Sample" width="100%">
+  <img src="https://raw.githubusercontent.com/Deiivid/Android-Clean-Architecture-Sample/main/docs/images/catalog-tour-preview.png" alt="Android Clean Architecture Sample" height="260">
 </a>
 
 Production-oriented Android reference with feature modules, inward dependency rules, immutable UI state, typed failures, pagination and accessible Compose UI.
@@ -57,7 +57,7 @@ Production-oriented Android reference with feature modules, inward dependency ru
 ### [AI Context Benchmark](https://github.com/Deiivid/ai-context-benchmark)
 
 <a href="https://github.com/Deiivid/ai-context-benchmark">
-  <img src="https://raw.githubusercontent.com/Deiivid/ai-context-benchmark/main/docs/ai-context-benchmark/assets/scenario-c-login.png" alt="AI Context Benchmark" height="310">
+  <img src="https://raw.githubusercontent.com/Deiivid/ai-context-benchmark/main/docs/ai-context-benchmark/assets/scenario-c-login.png" alt="AI Context Benchmark" height="260">
 </a>
 
 Practical Android experiment comparing three ways to provide requirements to an AI agent: Notion/MCP, a pasted specification and versioned local SDD/TDD.
@@ -74,7 +74,7 @@ Practical Android experiment comparing three ways to provide requirements to an 
 ### [Kotlin Multiplatform Portfolio](https://github.com/Deiivid/Deiivid.github.io)
 
 <a href="https://deiivid.github.io/">
-  <img src="https://raw.githubusercontent.com/Deiivid/Deiivid.github.io/main/docs/assets/img/web-david.png" alt="Kotlin Multiplatform portfolio" width="100%">
+  <img src="https://raw.githubusercontent.com/Deiivid/Deiivid.github.io/main/docs/assets/img/web-david.png" alt="Kotlin Multiplatform portfolio" height="210">
 </a>
 
 Responsive portfolio built with Kotlin and Compose Multiplatform for Web/Wasm, published through GitHub Pages.
@@ -89,7 +89,7 @@ Includes repository-local Codex context, agent contracts and repeatable architec
 ### [ComposeGlass](https://github.com/Deiivid/Glassmorphism-Compose)
 
 <a href="https://github.com/Deiivid/Glassmorphism-Compose">
-  <img src="https://raw.githubusercontent.com/Deiivid/Glassmorphism-Compose/master/screenshoots/androidGradients.png" alt="ComposeGlass gradients" width="100%">
+  <img src="https://raw.githubusercontent.com/Deiivid/Glassmorphism-Compose/master/screenshoots/androidGradients.png" alt="ComposeGlass gradients" height="210">
 </a>
 
 Reusable Glassmorphism modifier for Jetpack Compose with native `RenderEffect` on Android 12+ and a custom JNI/C++ blur path for older versions.
